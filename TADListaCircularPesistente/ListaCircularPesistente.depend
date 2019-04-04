@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1525730023 source:c:\temp\listacircularpesistente\listacircularpersistente.c
+	"ListaCircularPersistente.h"
+
+1525730024 ularPersistente.h"
+
+1525727805 c:\temp\listacircularpesistente\listacircularpersistente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1525780012 
+
+1525730023 source:c:\temp\listacircularpesistente\main.c
+	"ListaCircularPersistente.h"
+
+1525730023 source:c:\temp\tadlistacircularpesistente\main.c
+	"ListaCircularPersistente.h"
+
+1525727805 c:\temp\tadlistacircularpesistente\listacircularpersistente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1525730734 source:c:\temp\tadlistacircularpesistente\listacircularpersistente.c
+	"ListaCircularPersistente.h"
+
+1525780010 source:c:\aulas\proflek\tadlistacircularpesistente\listacircularpersistente.c
+	"ListaCircularPersistente.h"
+
+1525780010 c:\aulas\proflek\tadlistacircularpesistente\listacircularpersistente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1525730024 source:c:\aulas\proflek\tadlistacircularpesistente\main.c
+	"ListaCircularPersistente.h"
+
+1526388536 source:e:\tadlistacircularpesistente\listacircularpersistente.c
+	"ListaCircularPersistente.h"
+
+1525780012 e:\tadlistacircularpesistente\listacircularpersistente.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1525730024 source:e:\tadlistacircularpesistente\main.c
+	"ListaCircularPersistente.h"
+
+1526379980 source:/media/jmsgfhr/C7B5-149C/TADListaCircularPesistente/ListaCircularPersistente.c
+	"ListaCircularPersistente.h"
+
+1526416730 /media/jmsgfhr/C7B5-149C/TADListaCircularPesistente/ListaCircularPersistente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1526417932 source:/media/jmsgfhr/C7B5-149C/TADListaCircularPesistente/main.c
+	"ListaCircularPersistente.h"
+
+1554389458 source:/home/jmsgfhr/Documentos/TADListaCircularPesistente/ListaCircularPersistente.c
+	"ListaCircularPersistente.h"
+
+1526423625 /home/jmsgfhr/Documentos/TADListaCircularPesistente/ListaCircularPersistente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+
+1526426868 source:/home/jmsgfhr/Documentos/TADListaCircularPesistente/main.c
+	"ListaCircularPersistente.h"
+
